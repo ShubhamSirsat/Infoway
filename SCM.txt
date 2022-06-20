@@ -1,2 +1,5 @@
 initial version
 learning git commandas
+git vrsion
+git add
+git SCM.txt
